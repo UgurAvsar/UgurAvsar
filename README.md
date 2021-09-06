@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UgurAvsar
 - 👀 I’m interested in fancy JS & React Stuff.
-- 🌱 I’m currently focused on mobile App Development.
+- 🌱 I’m currently focused on Web App Development.
 - 💞️ I’m looking to collaborate on challenging projects.
 - 📫 Contact me on https://decoderate.com/kontakt/
 
